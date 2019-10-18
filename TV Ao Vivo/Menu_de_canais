@@ -5,22 +5,22 @@
 <channel>
 <name>SBT</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://cdnfe1.azureedge.net/hls1/sbt.m3u8</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
 
 <channel>
-<name>Record</name>
+<name>Record SP</name>
 <thumbnail></thumbnail>
-<externallink></externallink>
+<externallink>https://cdnfe1.azureedge.net/hls1/recordsp.m3u8</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
 
 <channel>
-<name>Rede Globo</name>
-<thumbnail></thumbnail>
+<name>Rede Globo SP</name>
+<thumbnail>https://cdnfe1.azureedge.net/hls1/bobosp.m3u8</thumbnail>
 <externallink></externallink>
 <fanart></fanart>
 <info></info>
@@ -28,23 +28,7 @@
 
 <channel>
 <name>Band</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>TV Aparecida</name>
-<thumbnail></thumbnail>
-<externallink></externallink>
-<fanart></fanart>
-<info></info>
-</channel>
-
-<channel>
-<name>Canção Nova</name>
-<thumbnail></thumbnail>
+<thumbnail>https://cdnfe1.azureedge.net/hls1/band.m3u8</thumbnail>
 <externallink></externallink>
 <fanart></fanart>
 <info></info>
