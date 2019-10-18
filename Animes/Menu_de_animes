@@ -1,0 +1,101 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Naruto Shippuden</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Naruto Clássico</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Nanatsu no Taizai</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Attack on Titan</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Boku no Hero</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Inuyasha</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Inazuma Eleven</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Death Note</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Dragon Ball</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Dragon Ball Z</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+channel>
+<name>Dragon Ball Super</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+channel>
+<name>Dragon Ball GT</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+</channels>
