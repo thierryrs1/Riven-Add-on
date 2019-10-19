@@ -1,37 +1,27 @@
-<layouttype>thumbnail</layouttype>
-
-
-<channels>
-<channel>
-<name>SBT</name>
+<item>
+<title>SBT</title>
+<link>https://cdnfe1.azureedge.net/hls1/sbt.m3u8</link>
 <thumbnail></thumbnail>
-<externallink>https://cdnfe1.azureedge.net/hls1/sbt.m3u8</externallink>
 <fanart></fanart>
-<info></info>
-</channel>
+</item>
 
-<channel>
-<name>Record SP</name>
+<item>
+<title>Record</title>
+<link>https://cdnfe1.azureedge.net/hls1/recordsp.m3u8</link>
 <thumbnail></thumbnail>
-<externallink>https://cdnfe1.azureedge.net/hls1/recordsp.m3u8</externallink>
 <fanart></fanart>
-<info></info>
-</channel>
+</item>
 
-<channel>
-<name>Rede Globo SP</name>
-<thumbnail>https://cdnfe1.azureedge.net/hls1/bobosp.m3u8</thumbnail>
-<externallink></externallink>
+<item>
+<title>Globo SP</title>
+<link>https://cdnfe1.azureedge.net/hls1/bobosp.m3u8</link>
+<thumbnail></thumbnail>
 <fanart></fanart>
-<info></info>
-</channel>
+</item>
 
-<channel>
-<name>Band</name>
-<thumbnail>https://cdnfe1.azureedge.net/hls1/band.m3u8</thumbnail>
-<externallink></externallink>
+<item>
+<title>Band</title>
+<link>https://cdnfe1.azureedge.net/hls1/band.m3u8</link>
+<thumbnail></thumbnail>
 <fanart></fanart>
-<info></info>
-</channel>
-
-</channels>
+</item>
